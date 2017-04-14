@@ -67,7 +67,9 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		</pluginRepositories>
 	
 	
-	
+	 <pluginGroups>    
+        <pluginGroup>com.jivesoftware.maven.plugins</pluginGroup>    
+    </pluginGroups>  
 	<build>
 	 <plugins>
    		<plugin>
